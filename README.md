@@ -1,2 +1,0 @@
-# react-tailwind-typescript-template
- 
